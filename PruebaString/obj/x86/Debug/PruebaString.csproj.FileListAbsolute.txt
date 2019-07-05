@@ -1,0 +1,5 @@
+c:\users\jesus gelves\documents\visual studio 2010\Projects\PruebaString\PruebaString\bin\Debug\PruebaString.exe
+c:\users\jesus gelves\documents\visual studio 2010\Projects\PruebaString\PruebaString\bin\Debug\PruebaString.pdb
+c:\users\jesus gelves\documents\visual studio 2010\Projects\PruebaString\PruebaString\obj\x86\Debug\PruebaString.exe
+c:\users\jesus gelves\documents\visual studio 2010\Projects\PruebaString\PruebaString\obj\x86\Debug\PruebaString.pdb
+C:\Users\Jesus Gelves\documents\visual studio 2010\Projects\PruebaString\PruebaString\obj\x86\Debug\PruebaString.csprojResolveAssemblyReference.cache

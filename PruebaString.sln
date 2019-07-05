@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaString", "PruebaString\PruebaString.csproj", "{FEA925A6-4779-4609-955A-764A50ED309A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA925A6-4779-4609-955A-764A50ED309A}.Debug|x86.ActiveCfg = Debug|x86
+		{FEA925A6-4779-4609-955A-764A50ED309A}.Debug|x86.Build.0 = Debug|x86
+		{FEA925A6-4779-4609-955A-764A50ED309A}.Release|x86.ActiveCfg = Release|x86
+		{FEA925A6-4779-4609-955A-764A50ED309A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

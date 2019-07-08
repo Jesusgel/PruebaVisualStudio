@@ -30,12 +30,7 @@ namespace PruebaString
 
 
                 strBTextoLog.AppendLine(string.Concat(limFinal));
-               // limite.TrimStart('\r');
-               // limite.TrimStart('\n');
 
-
-                 
-               //  string[] limites = limite.Split('#');
 
 
             }

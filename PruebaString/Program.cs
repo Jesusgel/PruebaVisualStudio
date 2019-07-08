@@ -13,7 +13,7 @@ namespace PruebaString
 
             StringBuilder strBTextoLog = new StringBuilder();
 
-            string limite = "Por el Norte: hasta Los Ejidos, incluyendo la Urb. Santa PorelMaría del Pinar. Por el Sur: hasta Urb. Miraflores y Av. Progreso de Castilla. Por el Este: hasta AA.HH. San Pedro y Av. Circunvalación Por el Oeste: hasta Av. Prolongación Grau Cdra. 35.";
+            string limite = "Por el Norte: hasta la muralla, incluyendo la Urb. Santa PorelMaría del Pinar. Por el Sur: hasta Urb. Miraflores y Av. Progreso de Castilla. Por el Este: hasta AA.HH. San Pedro y Av. Circunvalación Por el Oeste: hasta Av. Prolongación Grau Cdra. 35.";
 
             string l1;
             string l2;
